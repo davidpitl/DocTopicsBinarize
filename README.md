@@ -1,2 +1,2 @@
 # DocTopicsBinarize
-Convert Mallet topic models to small bin files
+Convert Mallet doc topics model file to small bin files
